@@ -67,4 +67,7 @@ public class University {
                 this.yearOfFoundation,
                 this.mainProfile.getProfileName());
     }
+
+    public void add(University university) {
+    }
 }
