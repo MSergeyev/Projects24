@@ -56,7 +56,7 @@ public class Go {
         });
 
         List<Statistics> statisticsList = StatisticsU.createStatistics(students, universities);
-        Write.writeXlsStatistics(statisticsList, "statistics.xlsx");
+        Write.writeXlsStatistics(statisticsList, "src/main/resources//statistics.xlsx");
     }
 }
 
