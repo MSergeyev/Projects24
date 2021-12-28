@@ -1,3 +1,5 @@
+package UtilsCompars;
+
 import Interfases.ComparsS.StudentavgExamScore;
 import Interfases.ComparsS.StudentcurrentCourseNumber;
 import Interfases.ComparsS.StudentfullName;
